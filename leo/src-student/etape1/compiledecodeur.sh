@@ -1,0 +1,1 @@
+cc ../commun/handlers.c ../commun/palette.c ./codage.c ../commun/maindecodeur.c -o decodage
